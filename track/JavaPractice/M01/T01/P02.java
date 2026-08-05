@@ -1,3 +1,5 @@
+package track.JavaPractice.M01.T01;
+
 public class P02 {
     public static void main(String[] args) {
 
