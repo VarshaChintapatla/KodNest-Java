@@ -1,10 +1,10 @@
-package track.Java.M02.t01.t02;
+package track.Java.M02.t02;
 
-public class Break {
+public class Continue {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
             if (i == 6) {
-                break;
+                continue;
             }
             System.out.println(i);
         }

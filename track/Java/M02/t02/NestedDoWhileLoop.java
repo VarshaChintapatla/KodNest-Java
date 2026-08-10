@@ -1,4 +1,4 @@
-package track.Java.M02.t01.t02;
+package track.Java.M02.t02;
 
 public class NestedDoWhileLoop {
     public static void main(String[] args) {
