@@ -1,6 +1,7 @@
-package track.Java.M02.to4;
+package track.Java.M02.t04;
 
 class Student {
+
     String name;
     int age;
     double height;
@@ -13,9 +14,4 @@ class Student {
         System.out.println("Sleeping");
     }
 
-    public static void main(String[] args) {
-        Student s = new Student();
-        s.run();
-        s.sleep();
-    }
-}
+}

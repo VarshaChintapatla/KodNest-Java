@@ -1,4 +1,4 @@
-package track.Java.M02.to4;
+package track.Java.M02.t04;
 
 public class StudentAplication {
 
