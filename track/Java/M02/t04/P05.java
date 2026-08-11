@@ -9,7 +9,7 @@ class Student {
     double attendance;
 }
 
-public class Main {
+public class P05 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
