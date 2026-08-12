@@ -3,7 +3,7 @@ package track.Java.M02.t04;
 public class StudentAplication {
 
     public static void main(String[] args) {
-        Student s1 = new Student();
+        Studentr s1 = new Studentr();
         s1.name = "varsha";
         s1.age = 21;
         s1.height = 5.4;

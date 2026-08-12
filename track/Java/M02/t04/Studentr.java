@@ -1,6 +1,6 @@
 package track.Java.M02.t04;
 
-class Student {
+class Studentr {
 
     String name;
     int age;
