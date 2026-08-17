@@ -1,4 +1,4 @@
-package track.JavaPractice.M01.T02;
+package track.JavaPractice;
 
 class Bus {
 
